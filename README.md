@@ -1,10 +1,9 @@
-# role-given-by-bio
 
-# Bot-Answering-By-Text
-
-Simple code who made you DIsocrd BOT answer to user after detect a Keyword that YOU choosed.
+A simple code that makes your Discord bot give a role following a keyword detected in bio.
 
 All informationsin the #index.js file.
+
+# role-given-by-bio
 
 ### Connect with me:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
