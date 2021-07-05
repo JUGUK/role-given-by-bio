@@ -1,5 +1,9 @@
-{
-    "anystatus": false,
-    "statustext":"/vanityURL" ,
-    "rolegiveid": "your role id"
-}
+ "status": {
+            "anystatus": false,
+            "statustext": "theo",
+            "roletogiveid": "861392829175300136"
+          },
+        
+          "options": {
+          "consolelogs": true
+            }}}
